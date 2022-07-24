@@ -1,0 +1,81 @@
+
+html{
+    background-color: #fff !important;
+
+}
+
+
+li{
+    list-style: none;
+}
+
+main > section{
+    height: calc(100vh - 100px);
+    text-transform: uppercase;
+}
+
+#gnb{text-transform: uppercase;}
+
+
+
+
+.xi-close + ul{
+    display: flex !important;       
+    position: fixed;    
+    left:0; right:0;
+    background-color: #000;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 2;
+    top:80px;
+    bottom:0;
+    color: #fff;
+}
+
+
+
+
+.xi-close + ul li{ 
+    width: 100%;
+
+}
+    
+    
+.xi-close + ul a {
+    color: #fff !important;
+   
+}
+
+#gnb a{
+    color: #fff !important;
+   
+}
+
+#skill{
+
+    padding-top: 50px;
+
+    background-color: coral;
+}
+
+#portfolio{
+
+    padding-top: 50px;
+
+    background-color: rgb(95, 24, 161);
+}
+
+#interview{
+
+    padding-top: 50px;
+
+    background-color: rgb(30, 165, 53);
+}
+
+#sns{
+
+    padding-top: 50px;
+
+    background-color: rgb(29, 134, 231);
+}
