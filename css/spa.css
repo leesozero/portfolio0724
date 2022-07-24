@@ -56,26 +56,26 @@ main > section{
 
     padding-top: 50px;
 
-    background-color: coral;
+    background-color: #dc3545;
 }
 
 #portfolio{
 
     padding-top: 50px;
 
-    background-color: rgb(95, 24, 161);
+    background-color: #007bff;
 }
 
 #interview{
 
     padding-top: 50px;
 
-    background-color: rgb(30, 165, 53);
+    background-color: #28a745;
 }
 
 #sns{
 
     padding-top: 50px;
 
-    background-color: rgb(29, 134, 231);
+    background-color: #ffc107;
 }
